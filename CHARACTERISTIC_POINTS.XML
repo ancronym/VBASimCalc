@@ -1,0 +1,3672 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<CharacteristicPoints>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="570613N" longitude="0095944E" name="AAL  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="663930N" longitude="0230000E" name="ABALA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575912N" longitude="0153411E" name="ABAMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564035N" longitude="0263236E" name="ABAVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="664706N" longitude="0155233E" name="ABAXI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555031N" longitude="0124720E" name="ABEGI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591416N" longitude="0170519E" name="ABENI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602710N" longitude="0212513E" name="ABIKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555806N" longitude="0095940E" name="ABINO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553548N" longitude="0080806E" name="ABKAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="663923N" longitude="0255419E" name="ABLAD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545900N" longitude="0085200E" name="ABLEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="680856N" longitude="0244518E" name="ABLOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614325N" longitude="0284117E" name="ABMAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641808N" longitude="0275411E" name="ABMUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645554N" longitude="0252133E" name="ABOVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633457N" longitude="0252329E" name="ABOXU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581843N" longitude="0270210E" name="ABSAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595350N" longitude="0225948E" name="ABSER"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620000N" longitude="0115625E" name="ABUNO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591936N" longitude="0243459E" name="ADAKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561752N" longitude="0185354E" name="ADAXA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624616N" longitude="0250336E" name="ADEDO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="684615N" longitude="0273711E" name="ADEXU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552050N" longitude="0041759E" name="ADIKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601751N" longitude="0235853E" name="ADIVO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645018N" longitude="0254242E" name="ADKIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601925N" longitude="0092300E" name="ADOPI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612524N" longitude="0264950E" name="ADOPO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554315N" longitude="0130156E" name="ADOVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605410N" longitude="0281559E" name="ADSEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560841N" longitude="0105302E" name="ADSEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552305N" longitude="0130023E" name="ADVIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560714N" longitude="0120702E" name="ADVOP"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="591730N" longitude="0253618E" name="AEGVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630848N" longitude="0311554E" name="AGAMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601205N" longitude="0081743E" name="AGEKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623854N" longitude="0295019E" name="AGIVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610305N" longitude="0220000E" name="AGIXA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="644313N" longitude="0150554E" name="AGMOL"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="601112N" longitude="0283754E" name="AKARU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590252N" longitude="0205457E" name="ALAMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544831N" longitude="0095742E" name="ALASA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604623N" longitude="0223740E" name="ALIBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562500N" longitude="0101654E" name="ALINI"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="552441N" longitude="0133327E" name="ALM  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562900N" longitude="0263832E" name="ALMIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591536N" longitude="0183706E" name="ALOLA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="545419N" longitude="0095936E" name="ALS  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550000N" longitude="0062100E" name="AMADA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622243N" longitude="0232115E" name="AMASU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602453N" longitude="0215502E" name="AMDIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602849N" longitude="0233644E" name="AMEDU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612618N" longitude="0272337E" name="AMEVA"/>
+
+  <CharacteristicPoint AIP="true" kind="GEO_PTS" latitude="591602N" longitude="0241448E" name="AMI  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570621N" longitude="0251515E" name="AMOLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641856N" longitude="0195004E" name="AMPAD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544928N" longitude="0094502E" name="AMRAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555637N" longitude="0063803E" name="AMRAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545324N" longitude="0150550E" name="AMROR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602938N" longitude="0234233E" name="AMROT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574031N" longitude="0084808E" name="AMSEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560602N" longitude="0123350E" name="AMSUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560226N" longitude="0121049E" name="AMTOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="672154N" longitude="0262012E" name="AMUBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552929N" longitude="0081359E" name="AMUDU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="672249N" longitude="0242242E" name="AMULU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610957N" longitude="0223817E" name="AMUPO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582459N" longitude="0242842E" name="ANAMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605147N" longitude="0250737E" name="ANAVO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552746N" longitude="0070000E" name="ANESI"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="574945N" longitude="0263148E" name="ANTS "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611729N" longitude="0225806E" name="APRIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662412N" longitude="0250422E" name="APTEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591936N" longitude="0190820E" name="APTUG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561717N" longitude="0104631E" name="APVIN"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="590850N" longitude="0254436E" name="ARAVE"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554718N" longitude="0060000E" name="ARBAG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613737N" longitude="0242940E" name="ARBEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561613N" longitude="0105553E" name="ARDEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611119N" longitude="0222719E" name="ARDIL"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="590611N" longitude="0252124E" name="ARDU "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595053N" longitude="0164441E" name="ARGIB"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="593912N" longitude="0175451E" name="ARL  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634818N" longitude="0231046E" name="ARLIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604725N" longitude="0274353E" name="ARLOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600810N" longitude="0203158E" name="ARMIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573003N" longitude="0172046E" name="ARMOD"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="590825N" longitude="0232801E" name="ARMUV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555718N" longitude="0050000E" name="ARNEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="661428N" longitude="0260602E" name="ARNUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613914N" longitude="0130957E" name="ARPIV"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592441N" longitude="0245019E" name="ARR  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="593510N" longitude="0163901E" name="ARS  "/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592651N" longitude="0252125E" name="ARSAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610000N" longitude="0182517E" name="ARTAB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="582004N" longitude="0100856E" name="ARTOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602048N" longitude="0240350E" name="ARTUR"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="653552N" longitude="0191546E" name="ARV  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601458N" longitude="0262357E" name="ARVEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="684054N" longitude="0273730E" name="ARVUL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550259N" longitude="0150857E" name="ASBAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552219N" longitude="0095938E" name="ASBIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624520N" longitude="0224157E" name="ASBOL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612430N" longitude="0215716E" name="ASBUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601223N" longitude="0263441E" name="ASDUL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561907N" longitude="0102734E" name="ASDUN"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="592713N" longitude="0265209E" name="ASERI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662422N" longitude="0231658E" name="ASKEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553310N" longitude="0112346E" name="ASKEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554726N" longitude="0035934E" name="ASKEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562258N" longitude="0223646E" name="ASKOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554224N" longitude="0083715E" name="ASKOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="665729N" longitude="0260822E" name="ASKUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562047N" longitude="0112038E" name="ASLID"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="652355N" longitude="0250741E" name="ASLUP"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582327N" longitude="0223026E" name="ASMEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550500N" longitude="0083931E" name="ASMUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610000N" longitude="0145228E" name="ASNIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621150N" longitude="0290603E" name="ASPEM"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="592457N" longitude="0243440E" name="ASPUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641123N" longitude="0271540E" name="ASRIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601405N" longitude="0242526E" name="ASTIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560714N" longitude="0125741E" name="ASTOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623325N" longitude="0272715E" name="ASTUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560000N" longitude="0115600E" name="ASVAN"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582558N" longitude="0252058E" name="ASVAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613357N" longitude="0235200E" name="ATBOK"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="573645N" longitude="0281228E" name="ATBUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624834N" longitude="0274657E" name="ATGOS"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591210N" longitude="0235334E" name="ATKOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600846N" longitude="0094802E" name="ATLAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643642N" longitude="0144040E" name="ATLEM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623357N" longitude="0274617E" name="ATLUL"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="594555N" longitude="0274008E" name="ATLUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="640347N" longitude="0222249E" name="ATMAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570000N" longitude="0050000E" name="ATNAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621942N" longitude="0255012E" name="ATNEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632358N" longitude="0223208E" name="ATPEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563528N" longitude="0235035E" name="ATRAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562524N" longitude="0123048E" name="ATRIB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605700N" longitude="0221948E" name="ATRIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620437N" longitude="0251900E" name="ATSEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545359N" longitude="0084658E" name="ATTUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625302N" longitude="0210425E" name="AXUTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="592520N" longitude="0184228E" name="BABAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605824N" longitude="0281411E" name="BABIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555548N" longitude="0131158E" name="BABSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660321N" longitude="0250933E" name="BABUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631016N" longitude="0273842E" name="BADMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562036N" longitude="0110022E" name="BADUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572517N" longitude="0181028E" name="BAGLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="543422N" longitude="0111612E" name="BAGOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573319N" longitude="0115837E" name="BAK  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625820N" longitude="0175612E" name="BAKIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570658N" longitude="0101135E" name="BAKIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612145N" longitude="0192457E" name="BAKLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545500N" longitude="0133339E" name="BAKLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560459N" longitude="0081420E" name="BAKOG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554837N" longitude="0190528E" name="BALIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="650634N" longitude="0171653E" name="BALOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550208N" longitude="0132537E" name="BALOX"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="595415N" longitude="0251507E" name="BALTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594445N" longitude="0173525E" name="BALVI"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="592700N" longitude="0293800E" name="BAMAD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575724N" longitude="0141128E" name="BAMAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600942N" longitude="0250831E" name="BAMEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655647N" longitude="0154142E" name="BAMIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="542646N" longitude="0115029E" name="BAMOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555034N" longitude="0081611E" name="BAMPI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615824N" longitude="0255736E" name="BAMPO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562220N" longitude="0084217E" name="BAMRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="653700N" longitude="0241938E" name="BAMUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552936N" longitude="0081413E" name="BANLU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631704N" longitude="0225759E" name="BAPTU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550713N" longitude="0093329E" name="BARLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565114N" longitude="0253248E" name="BARVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620400N" longitude="0261229E" name="BASDU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552801N" longitude="0122438E" name="BASLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="652740N" longitude="0224237E" name="BASTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553439N" longitude="0082948E" name="BAVIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635658N" longitude="0263301E" name="BAVMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553611N" longitude="0081800E" name="BAVTA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="602818N" longitude="0102020E" name="BBU  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="623413N" longitude="0170243E" name="BCS  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="573446N" longitude="0213646E" name="BDRY1"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="574518N" longitude="0215733E" name="BDRY2"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554846N" longitude="0091521E" name="BEBUL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593744N" longitude="0161330E" name="BEDLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572135N" longitude="0150750E" name="BEDOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553552N" longitude="0060000E" name="BEDRO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="652228N" longitude="0245631E" name="BEDSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601657N" longitude="0200216E" name="BEGOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623657N" longitude="0214657E" name="BEGSU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="593140N" longitude="0245605E" name="BEKNA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="554728N" longitude="0120545E" name="BEL  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552906N" longitude="0035946E" name="BELAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584529N" longitude="0162601E" name="BELRO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552741N" longitude="0043259E" name="BELUV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574920N" longitude="0144822E" name="BENGI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631837N" longitude="0152432E" name="BENKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="673636N" longitude="0245421E" name="BENUG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615844N" longitude="0251843E" name="BEPEM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590209N" longitude="0014420E" name="BEREP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562147N" longitude="0232535E" name="BERIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655127N" longitude="0221837E" name="BESLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564909N" longitude="0262810E" name="BETAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550026N" longitude="0123121E" name="BETUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655721N" longitude="0282256E" name="BEVNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565038N" longitude="0160806E" name="BEXAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630532N" longitude="0274307E" name="BEXOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="653534N" longitude="0240914E" name="BEXUL"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="575107N" longitude="0190147E" name="BGE  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645307N" longitude="0243053E" name="BIGNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622714N" longitude="0253322E" name="BIKBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545500N" longitude="0141000E" name="BIKRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655154N" longitude="0252633E" name="BILSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602736N" longitude="0251559E" name="BIMVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580938N" longitude="0094710E" name="BINRO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="590655N" longitude="0260215E" name="BIRSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551212N" longitude="0120723E" name="BISTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="582048N" longitude="0061446E" name="BIVKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622454N" longitude="0194927E" name="BODRI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="653804N" longitude="0213021E" name="BOLPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="585424N" longitude="0104307E" name="BOMGU"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="602517N" longitude="0153109E" name="BOR  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610000N" longitude="0125357E" name="BUGAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550957N" longitude="0094013E" name="BUKAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601146N" longitude="0203226E" name="BUKOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624711N" longitude="0211334E" name="BUPEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555631N" longitude="0052341E" name="BUSOM"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="550005N" longitude="0122245E" name="CDA  "/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="593311N" longitude="0244239E" name="CLI31"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="591541N" longitude="0172903E" name="COR  "/>
+
+  <CharacteristicPoint AIP="false" kind="NDB" latitude="593715N" longitude="0254645E" name="CP1  "/>
+
+  <CharacteristicPoint AIP="false" kind="NDB" latitude="590730N" longitude="0253952E" name="CP2  "/>
+
+  <CharacteristicPoint AIP="false" kind="NDB" latitude="584205N" longitude="0260000E" name="CP5  "/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581846N" longitude="0264911E" name="CTR  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570000N" longitude="0064152E" name="DANKO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561207N" longitude="0033843E" name="DANOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550000N" longitude="0051653E" name="DANUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552814N" longitude="0052804E" name="DAVAL"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="580150N" longitude="0252653E" name="DCEAS"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="582019N" longitude="0205104E" name="DCNEK"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="580249N" longitude="0185014E" name="DCNER"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="572331N" longitude="0204805E" name="DCNET"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="571146N" longitude="0292352E" name="DCNOT"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="591936N" longitude="0195314E" name="DCOST"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631530N" longitude="0202702E" name="DEDIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603820N" longitude="0175724E" name="DEGAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574341N" longitude="0122025E" name="DEGAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620601N" longitude="0164844E" name="DEGED"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564552N" longitude="0141828E" name="DEKIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645125N" longitude="0253705E" name="DEKOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601449N" longitude="0203250E" name="DELAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642825N" longitude="0233048E" name="DELES"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545011N" longitude="0095110E" name="DEMIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623534N" longitude="0214626E" name="DEMOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572713N" longitude="0182145E" name="DEMUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552540N" longitude="0130230E" name="DENEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591131N" longitude="0150121E" name="DEPEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574022N" longitude="0201239E" name="DEREX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611726N" longitude="0261023E" name="DEROX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553647N" longitude="0130938E" name="DESAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561121N" longitude="0105716E" name="DESOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565341N" longitude="0202513E" name="DESON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621347N" longitude="0165827E" name="DETMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573515N" longitude="0110409E" name="DETNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545500N" longitude="0142039E" name="DETNI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583600N" longitude="0141552E" name="DETSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550122N" longitude="0125959E" name="DETUS"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582036N" longitude="0223029E" name="DEVEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600901N" longitude="0244601E" name="DEVKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571259N" longitude="0135536E" name="DEVNI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="665626N" longitude="0191619E" name="DEXOP"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="555650N" longitude="0264032E" name="DGP  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623752N" longitude="0142655E" name="DIBVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590657N" longitude="0171822E" name="DIGLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625209N" longitude="0142514E" name="DIGLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590656N" longitude="0193610E" name="DIGOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611744N" longitude="0142147E" name="DIKVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552541N" longitude="0075240E" name="DIMEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550959N" longitude="0093629E" name="DINUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561057N" longitude="0175835E" name="DIPEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601207N" longitude="0244149E" name="DIPMO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581840N" longitude="0265810E" name="DIPSI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="611300N" longitude="0245508E" name="DIPUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634923N" longitude="0133907E" name="DIRAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="653622N" longitude="0243135E" name="DIRGU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550906N" longitude="0124401E" name="DISGO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605807N" longitude="0221414E" name="DISIB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583550N" longitude="0174401E" name="DISRU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="590305N" longitude="0274616E" name="DITEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561409N" longitude="0131150E" name="DITVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595054N" longitude="0233537E" name="DIVAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625444N" longitude="0214317E" name="DIVEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605450N" longitude="0270633E" name="DIVNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562940N" longitude="0161759E" name="DIXOT"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="591226N" longitude="0170044E" name="DKR  "/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="594758N" longitude="0242709E" name="DOBAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553622N" longitude="0112324E" name="DOBEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600240N" longitude="0191806E" name="DODAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634324N" longitude="0252356E" name="DODEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561333N" longitude="0212146E" name="DOKOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625534N" longitude="0041220E" name="DOKOV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="580038N" longitude="0245901E" name="DOLAT"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585402N" longitude="0212325E" name="DOLEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564936N" longitude="0272805E" name="DOLUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552231N" longitude="0122901E" name="DOPEM"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592616N" longitude="0260250E" name="DOPIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="680829N" longitude="0231918E" name="DOPUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553200N" longitude="0073500E" name="DOREV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545131N" longitude="0091139E" name="DOSUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554846N" longitude="0265841E" name="DUBIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544300N" longitude="0104200E" name="EBAVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600542N" longitude="0202716E" name="EBEBU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561257N" longitude="0084235E" name="EBISO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625445N" longitude="0281435E" name="EBIXO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="661217N" longitude="0244801E" name="EBOLU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602027N" longitude="0202714E" name="EBUNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594800N" longitude="0143938E" name="EBURI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624654N" longitude="0193756E" name="EDAXA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570827N" longitude="0203538E" name="EDERA"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="592653N" longitude="0244512E" name="EECL "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="591544N" longitude="0241307E" name="EEEI "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="592121N" longitude="0242235E" name="EEHA "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="585603N" longitude="0233223E" name="EEHU "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="591934N" longitude="0273335E" name="EEJI "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="585930N" longitude="0224948E" name="EEKA "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="581348N" longitude="0223034E" name="EEKE "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="580656N" longitude="0253310E" name="EEKI "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="580853N" longitude="0240009E" name="EEKU "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="581723N" longitude="0264553E" name="EELM "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="590123N" longitude="0233442E" name="EELU "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="592416N" longitude="0280202E" name="EENA "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="592744N" longitude="0250035E" name="EEPI "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="582508N" longitude="0242822E" name="EEPU "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="585911N" longitude="0244328E" name="EERA "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="580507N" longitude="0255356E" name="EERD "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="592153N" longitude="0262110E" name="EERE "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="575634N" longitude="0265840E" name="EERI "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="574702N" longitude="0231558E" name="EERU "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="580755N" longitude="0221530E" name="EESE "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="591427N" longitude="0255744E" name="EETA "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_CL" latitude="592448N" longitude="0244957E" name="EETN "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="581827N" longitude="0264125E" name="EETU "/>
+
+  <CharacteristicPoint AIP="true" kind="AIRPORT_I" latitude="582100N" longitude="0252935E" name="EEVI "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="585907N" longitude="0231506E" name="EEVO "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="573800N" longitude="0264012E" name="EEVU "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="615123N" longitude="0244721E" name="EFHA "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="600852N" longitude="0245527E" name="EFHE "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="601501N" longitude="0250243E" name="EFHF "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601934N" longitude="0245809E" name="EFHH "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_CL" latitude="601934N" longitude="0245808E" name="EFHK "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="595044N" longitude="0230456E" name="EFHN "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="623929N" longitude="0293647E" name="EFJO "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="622411N" longitude="0254046E" name="EFJY "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="630727N" longitude="0230305E" name="EFKA "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="630032N" longitude="0274724E" name="EFKU "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="610239N" longitude="0280920E" name="EFLP "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="600731N" longitude="0195422E" name="EFMA "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="612803N" longitude="0214725E" name="EFPO "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="615638N" longitude="0285555E" name="EFSA "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="612455N" longitude="0233516E" name="EFTP "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="603042N" longitude="0221623E" name="EFTU "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="605347N" longitude="0265617E" name="EFUT "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="630243N" longitude="0214551E" name="EFVA "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552318N" longitude="0120502E" name="EGABA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614033N" longitude="0121300E" name="EGAGO"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="582446N" longitude="0223118E" name="EIKLA"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="561800N" longitude="0103708E" name="EKAH "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="554425N" longitude="0090906E" name="EKBI "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="553705N" longitude="0123922E" name="EKCH "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="553133N" longitude="0083312E" name="EKEB "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="561751N" longitude="0090729E" name="EKKA "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561930N" longitude="0213629E" name="EKLIN"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="583025N" longitude="0254255E" name="EKLON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562632N" longitude="0151849E" name="EKLOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651506N" longitude="0234339E" name="EKMIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635047N" longitude="0183927E" name="EKNAG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594300N" longitude="0220945E" name="EKNID"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623741N" longitude="0294843E" name="EKPAS"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="551332N" longitude="0091550E" name="EKSP "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615945N" longitude="0284719E" name="EKTAT"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582026N" longitude="0223028E" name="EKTER"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="570534N" longitude="0095057E" name="EKYT "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655648N" longitude="0245028E" name="ELBIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="650946N" longitude="0213053E" name="ELBOG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655054N" longitude="0254831E" name="ELBUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573319N" longitude="0115837E" name="ELBUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572935N" longitude="0065238E" name="ELGIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573403N" longitude="0184651E" name="ELKOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583500N" longitude="0095432E" name="ELKOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602723N" longitude="0245004E" name="ELKUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622617N" longitude="0274309E" name="ELMAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553809N" longitude="0080845E" name="ELMIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601012N" longitude="0240557E" name="ELMUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625327N" longitude="0223649E" name="ELMUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580544N" longitude="0151624E" name="ELPAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601850N" longitude="0252945E" name="ELPEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601740N" longitude="0253519E" name="ELPIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634621N" longitude="0250603E" name="ELPOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610444N" longitude="0281836E" name="ELRAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623731N" longitude="0225817E" name="ELRUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624815N" longitude="0252107E" name="ELSOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594928N" longitude="0165924E" name="ELTOK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660239N" longitude="0284647E" name="ELTUG"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="581248N" longitude="0262324E" name="ELVAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575758N" longitude="0105735E" name="ELVAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552443N" longitude="0140539E" name="ELVIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594040N" longitude="0110730E" name="ELVOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635934N" longitude="0233431E" name="EMDUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563819N" longitude="0160849E" name="EMKAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611058N" longitude="0074243E" name="EMLER"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="674500N" longitude="0214154E" name="EMLET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613855N" longitude="0250731E" name="EMLIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601418N" longitude="0244425E" name="EMPEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601252N" longitude="0214240E" name="EMPOM"/>
+
+  <CharacteristicPoint AIP="false" kind="NDB" latitude="591728N" longitude="0150354E" name="EN   "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610429N" longitude="0233420E" name="ENETI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="691951N" longitude="0254510E" name="ENEXI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604936N" longitude="0233558E" name="ENOKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="665432N" longitude="0213933E" name="ENOXI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602853N" longitude="0244632E" name="ENUTO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611014N" longitude="0213431E" name="EPAXU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554940N" longitude="0082444E" name="EPILO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554254N" longitude="0122333E" name="EPOXO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610051N" longitude="0220526E" name="ERAKO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="652200N" longitude="0254803E" name="EREPO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560337N" longitude="0091818E" name="ERGAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613912N" longitude="0272213E" name="ERGIM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562208N" longitude="0243749E" name="ERIVA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="595346N" longitude="0182013E" name="ERK  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612753N" longitude="0214745E" name="ERKES"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611335N" longitude="0274253E" name="ERKOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624511N" longitude="0271320E" name="ERLUS"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585041N" longitude="0235800E" name="ERMEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611710N" longitude="0251647E" name="ERNUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625731N" longitude="0214923E" name="ERPOD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552943N" longitude="0121427E" name="ERPUK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601830N" longitude="0243442E" name="ERSAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611543N" longitude="0232041E" name="ERTIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620138N" longitude="0252535E" name="ERTOP"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="561600N" longitude="0151554E" name="ESDF "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600046N" longitude="0122332E" name="ESEBA"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="573936N" longitude="0121728E" name="ESGG "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="574530N" longitude="0140409E" name="ESGJ "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="584719N" longitude="0165413E" name="ESKN "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="564108N" longitude="0161715E" name="ESMQ "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="553254N" longitude="0132112E" name="ESMS "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="674917N" longitude="0202008E" name="ESNQ "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="653525N" longitude="0191655E" name="ESNX "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="631140N" longitude="0143001E" name="ESNZ "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="591341N" longitude="0150224E" name="ESOE "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="592641N" longitude="0132015E" name="ESOK "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602351N" longitude="0204352E" name="ESOPA"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="593522N" longitude="0163801E" name="ESOW "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="653236N" longitude="0220725E" name="ESPA "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="593834N" longitude="0175652E" name="ESSA "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="592116N" longitude="0175623E" name="ESSB "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="573934N" longitude="0182048E" name="ESSV "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625455N" longitude="0260806E" name="ETABI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624520N" longitude="0212031E" name="ETANI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624944N" longitude="0284550E" name="ETENA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="640802N" longitude="0170122E" name="ETIPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621120N" longitude="0294040E" name="ETOBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614257N" longitude="0152159E" name="ETOMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561115N" longitude="0141254E" name="ETPIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635705N" longitude="0274819E" name="ETROD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552824N" longitude="0153805E" name="ETRUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655514N" longitude="0292424E" name="ETSIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570300N" longitude="0093600E" name="ETVOK"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="570554N" longitude="0241558E" name="EVAD "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="592023N" longitude="0215126E" name="EVADI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561422N" longitude="0072852E" name="EVAKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560844N" longitude="0122840E" name="EVBAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551351N" longitude="0123740E" name="EVBED"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="571958N" longitude="0251925E" name="EVCA "/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="583736N" longitude="0214558E" name="EVERI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671506N" longitude="0245502E" name="EVIMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602230N" longitude="0244754E" name="EVIRO"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="565655N" longitude="0231343E" name="EVJA "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="692150N" longitude="0284256E" name="EVLAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601508N" longitude="0190643E" name="EVLAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610247N" longitude="0230429E" name="EVLIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="683040N" longitude="0245836E" name="EVOLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570954N" longitude="0195529E" name="EVONA"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="565525N" longitude="0235816E" name="EVRA "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643337N" longitude="0281131E" name="EVRIG"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="565931N" longitude="0240428E" name="EVRS "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572229N" longitude="0093759E" name="EVSES"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645915N" longitude="0252804E" name="EVSET"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="563956N" longitude="0245412E" name="EVSM "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604900N" longitude="0095612E" name="EVTOG"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="572128N" longitude="0213239E" name="EVVA "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560708N" longitude="0130859E" name="EXENA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625205N" longitude="0273114E" name="EXIKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602313N" longitude="0230638E" name="EXUPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="680638N" longitude="0242059E" name="EXUTI"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592449N" longitude="0243616E" name="FAP08"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592445N" longitude="0250358E" name="FAP26"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="585501N" longitude="0121749E" name="FEN  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554105N" longitude="0114616E" name="FISKO"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="614906N" longitude="0155045E" name="FRL  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633518N" longitude="0204109E" name="GADDE"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="571414N" longitude="0291734E" name="GAKTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="585915N" longitude="0172942E" name="GALNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625049N" longitude="0200825E" name="GALPI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562430N" longitude="0133357E" name="GAMVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624139N" longitude="0260534E" name="GANKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="691021N" longitude="0214746E" name="GAPRO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554635N" longitude="0052540E" name="GARKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560846N" longitude="0200456E" name="GARSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625144N" longitude="0282944E" name="GASKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552806N" longitude="0115052E" name="GATMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645600N" longitude="0293700E" name="GATRI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="573430N" longitude="0262318E" name="GATVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551905N" longitude="0130055E" name="GAVBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601015N" longitude="0243747E" name="GEDLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554624N" longitude="0041026E" name="GEGDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571643N" longitude="0250302E" name="GEKLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634437N" longitude="0261755E" name="GEKSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554346N" longitude="0084900E" name="GELBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565217N" longitude="0193400E" name="GELDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570223N" longitude="0141213E" name="GELMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623816N" longitude="0221404E" name="GELSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544726N" longitude="0100000E" name="GELTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613903N" longitude="0232551E" name="GEMKU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="593448N" longitude="0252914E" name="GEPTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="543703N" longitude="0115557E" name="GESKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615849N" longitude="0235014E" name="GESMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590209N" longitude="0115532E" name="GETPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604434N" longitude="0141947E" name="GEVRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631718N" longitude="0231507E" name="GIDKI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591417N" longitude="0242813E" name="GIGDI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555544N" longitude="0094815E" name="GIGUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="640204N" longitude="0134738E" name="GIKAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603427N" longitude="0215851E" name="GIKIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560356N" longitude="0090708E" name="GIKIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572325N" longitude="0245515E" name="GILAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="680139N" longitude="0170604E" name="GILEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625030N" longitude="0275700E" name="GILUV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601730N" longitude="0101420E" name="GIMEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612558N" longitude="0225520E" name="GIMIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584225N" longitude="0155037E" name="GIMLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="543336N" longitude="0111849E" name="GIMRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602256N" longitude="0212320E" name="GIMUL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561543N" longitude="0101358E" name="GINUB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562005N" longitude="0101844E" name="GIPIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613003N" longitude="0270522E" name="GIPLU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570420N" longitude="0093027E" name="GIPUG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601127N" longitude="0243343E" name="GIRLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562239N" longitude="0093005E" name="GIROG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550336N" longitude="0142424E" name="GIROR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555554N" longitude="0174206E" name="GISON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630212N" longitude="0224836E" name="GISUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="543840N" longitude="0110000E" name="GITER"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="673648N" longitude="0245018E" name="GITEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="650115N" longitude="0245942E" name="GITVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572516N" longitude="0115209E" name="GIXUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563351N" longitude="0223155E" name="GOBEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="543722N" longitude="0110510E" name="GOBOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="644213N" longitude="0233334E" name="GODOB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561603N" longitude="0105832E" name="GODOG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602600N" longitude="0062625E" name="GOKAB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560952N" longitude="0130418E" name="GOKEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614509N" longitude="0142330E" name="GOKEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554532N" longitude="0094159E" name="GOKIM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573330N" longitude="0135652E" name="GOLAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561959N" longitude="0114142E" name="GOLGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554638N" longitude="0123059E" name="GOLMI"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="591135N" longitude="0301822E" name="GOLTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552700N" longitude="0051700E" name="GOLUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612717N" longitude="0234658E" name="GOMIB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553447N" longitude="0044532E" name="GOMLA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585633N" longitude="0253437E" name="GONOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562828N" longitude="0162919E" name="GOPNI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554822N" longitude="0130226E" name="GORAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560312N" longitude="0050000E" name="GOREV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545500N" longitude="0153918E" name="GORPI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544820N" longitude="0145128E" name="GOSOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662758N" longitude="0253928E" name="GOSOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623128N" longitude="0252017E" name="GOSVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581438N" longitude="0182743E" name="GOTAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571218N" longitude="0111622E" name="GOTEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545425N" longitude="0150219E" name="GOTOG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600847N" longitude="0252058E" name="GOVMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550000N" longitude="0055132E" name="GREFI"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="565630N" longitude="0300706E" name="GUBIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620312N" longitude="0273528E" name="GUBLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624511N" longitude="0222710E" name="GUBNI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623855N" longitude="0221157E" name="GUBTU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="650658N" longitude="0252830E" name="GULDU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602338N" longitude="0250708E" name="GUMVO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655528N" longitude="0292435E" name="GUNLU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562217N" longitude="0234520E" name="GUNTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601113N" longitude="0223309E" name="GUPLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603739N" longitude="0233624E" name="GUPSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="582528N" longitude="0103358E" name="GURLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601643N" longitude="0250530E" name="HAKKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575448N" longitude="0174847E" name="HANSA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="602016N" longitude="0245713E" name="HEL  "/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="601924N" longitude="0245906E" name="HK1  "/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="601930N" longitude="0245936E" name="HK2  "/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="601824N" longitude="0245818E" name="HK3  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602353N" longitude="0250740E" name="HK416"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="601947N" longitude="0251055E" name="HK419"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="601651N" longitude="0245109E" name="HK421"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="601606N" longitude="0244621E" name="HK428"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="601817N" longitude="0244655E" name="HK451"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="601019N" longitude="0243546E" name="HK801"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="600606N" longitude="0244330E" name="HK804"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="595850N" longitude="0251901E" name="HK806"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="600813N" longitude="0243323E" name="HK811"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="600433N" longitude="0244007E" name="HK814"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602119N" longitude="0250737E" name="HK817"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="603003N" longitude="0244719E" name="HK821"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="603218N" longitude="0245620E" name="HK822"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602736N" longitude="0251558E" name="HK826"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602355N" longitude="0252246E" name="HK827"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602936N" longitude="0251814E" name="HK831"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602533N" longitude="0252602E" name="HK832"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="600703N" longitude="0251119E" name="HK836"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="601358N" longitude="0252115E" name="HK853"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="600651N" longitude="0251103E" name="HK861"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="603005N" longitude="0252132E" name="HK878"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602623N" longitude="0252818E" name="HK879"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602545N" longitude="0252652E" name="HK881"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602959N" longitude="0251906E" name="HK883"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="601854N" longitude="0251135E" name="HK891"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="600836N" longitude="0244856E" name="HK894"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="600417N" longitude="0250219E" name="HK901"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602422N" longitude="0245647E" name="HK903"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602937N" longitude="0252028E" name="HK904"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602555N" longitude="0252714E" name="HK906"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="601646N" longitude="0182330E" name="HMR  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="641403N" longitude="0155600E" name="HOT  "/>
+
+  <CharacteristicPoint AIP="true" kind="NDB" latitude="592450N" longitude="0243624E" name="IB   "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615849N" longitude="0231910E" name="IBARI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561522N" longitude="0110438E" name="IBEKO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="654134N" longitude="0285742E" name="IBEVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594320N" longitude="0152345E" name="IBGAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651227N" longitude="0172246E" name="IBIXA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552141N" longitude="0113038E" name="IBNIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613712N" longitude="0251743E" name="IBOSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562330N" longitude="0121356E" name="IBREK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="664230N" longitude="0250105E" name="IBSAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604409N" longitude="0204858E" name="IBVAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602135N" longitude="0212040E" name="IBVUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604239N" longitude="0254739E" name="IDEPI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562211N" longitude="0121356E" name="IDEXO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602403N" longitude="0250309E" name="IDMOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610527N" longitude="0220436E" name="IDNIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562738N" longitude="0141841E" name="IDPAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602557N" longitude="0251217E" name="IDREG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562136N" longitude="0281200E" name="IGORO"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590606N" longitude="0271813E" name="IISAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553625N" longitude="0050000E" name="INBOB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583312N" longitude="0074850E" name="INDOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583640N" longitude="0172755E" name="INGIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="680031N" longitude="0253345E" name="INGOD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635613N" longitude="0224118E" name="INKAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553801N" longitude="0123646E" name="INKIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605615N" longitude="0225207E" name="INKIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602956N" longitude="0240546E" name="INKOL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560501N" longitude="0081929E" name="INLAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554433N" longitude="0091306E" name="INLIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601018N" longitude="0265647E" name="INLOG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554704N" longitude="0112211E" name="INPUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625127N" longitude="0214200E" name="INREM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560310N" longitude="0124849E" name="INRER"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610050N" longitude="0121300E" name="INREX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612456N" longitude="0240054E" name="INRUL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="663852N" longitude="0255920E" name="INSAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605118N" longitude="0210007E" name="INSOB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="582127N" longitude="0202852E" name="INSUK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551330N" longitude="0080157E" name="INSUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561335N" longitude="0092441E" name="INTET"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="594940N" longitude="0251111E" name="INTOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545746N" longitude="0150915E" name="INVIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573916N" longitude="0111317E" name="INVOL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603815N" longitude="0220145E" name="IPDUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580751N" longitude="0132710E" name="IPKAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621237N" longitude="0255031E" name="IPLUV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594422N" longitude="0081747E" name="IPMOD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602711N" longitude="0231035E" name="IPMOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562210N" longitude="0245731E" name="IRBEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624950N" longitude="0200039E" name="IRGAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560445N" longitude="0083222E" name="IRKAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="652429N" longitude="0252404E" name="IRKUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600859N" longitude="0254450E" name="IRLOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630000N" longitude="0011000E" name="ISVIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="664430N" longitude="0195658E" name="ITVAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643530N" longitude="0244107E" name="IXONO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642834N" longitude="0280821E" name="IXUBI"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="623938N" longitude="0293638E" name="JNS  "/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="584439N" longitude="0262338E" name="JOGEV"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="592130N" longitude="0272516E" name="JOHVI"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="574537N" longitude="0140356E" name="JON  "/>
+
+  <CharacteristicPoint AIP="false" kind="NDB" latitude="565946N" longitude="0144527E" name="JX   "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="564107N" longitude="0161703E" name="KAL  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="561748N" longitude="0090031E" name="KAR  "/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="580708N" longitude="0253507E" name="KARKS"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="581955N" longitude="0221316E" name="KARLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570000N" longitude="0053027E" name="KARLI"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="553526N" longitude="0123649E" name="KAS  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561246N" longitude="0193424E" name="KEDUX"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="592009N" longitude="0251951E" name="KEHRA"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="591842N" longitude="0242329E" name="KEILA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611954N" longitude="0254312E" name="KEKEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545658N" longitude="0142628E" name="KEKOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660247N" longitude="0252734E" name="KEKOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602807N" longitude="0191033E" name="KELAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="683012N" longitude="0282730E" name="KELEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550922N" longitude="0093014E" name="KELEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581437N" longitude="0120315E" name="KELIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555003N" longitude="0111007E" name="KELOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560735N" longitude="0132714E" name="KEMAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564315N" longitude="0085221E" name="KEMEG"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584321N" longitude="0243513E" name="KEMET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615358N" longitude="0082555E" name="KEMIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655047N" longitude="0243610E" name="KEMUP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555959N" longitude="0075538E" name="KEPAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544825N" longitude="0100131E" name="KEPAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624658N" longitude="0230951E" name="KEPUK"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="575916N" longitude="0225512E" name="KERU "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="692458N" longitude="0254913E" name="KESAG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="673501N" longitude="0233238E" name="KESUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545026N" longitude="0095315E" name="KESUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551605N" longitude="0112158E" name="KETAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641157N" longitude="0211150E" name="KETEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614800N" longitude="0300500E" name="KETOL"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="580853N" longitude="0240010E" name="KIHNU"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="580900N" longitude="0245800E" name="KILIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572659N" longitude="0175313E" name="KINTI"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="585751N" longitude="0260127E" name="KOERU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600452N" longitude="0171347E" name="KOGAV"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="591010N" longitude="0244516E" name="KOHIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552929N" longitude="0124254E" name="KOKAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624000N" longitude="0312231E" name="KOKAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641900N" longitude="0235659E" name="KOKIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="542741N" longitude="0114124E" name="KOKOR"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="585959N" longitude="0291113E" name="KOLET"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584334N" longitude="0264416E" name="KOLEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560000N" longitude="0164853E" name="KOLJA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544923N" longitude="0145639E" name="KOLOB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671956N" longitude="0234600E" name="KOLUP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563439N" longitude="0230536E" name="KOMAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622518N" longitude="0310630E" name="KOMEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641657N" longitude="0273921E" name="KONUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545813N" longitude="0112804E" name="KOPEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560802N" longitude="0122954E" name="KOPIM"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="552622N" longitude="0113754E" name="KOR  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584839N" longitude="0115405E" name="KORET"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="591105N" longitude="0251030E" name="KOSE "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544648N" longitude="0123552E" name="KOSEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591058N" longitude="0204034E" name="KOSKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550055N" longitude="0124349E" name="KOSMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574945N" longitude="0113707E" name="KOSOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560758N" longitude="0145012E" name="KOTAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625244N" longitude="0202341E" name="KOTOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573335N" longitude="0083427E" name="KOVIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605216N" longitude="0264355E" name="KOVOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571047N" longitude="0123036E" name="KOVUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="582401N" longitude="0154408E" name="KOXIM"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="674909N" longitude="0202015E" name="KRA  "/>
+
+  <CharacteristicPoint AIP="true" kind="GEO_PTS" latitude="585931N" longitude="0224951E" name="KRD  "/>
+
+  <CharacteristicPoint AIP="true" kind="GEO_PTS" latitude="581342N" longitude="0223055E" name="KRS  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="592633N" longitude="0131954E" name="KSD  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551323N" longitude="0122854E" name="KUBIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595846N" longitude="0240436E" name="KUDOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550000N" longitude="0073714E" name="KUGAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="682632N" longitude="0222949E" name="KUGIT"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584229N" longitude="0225045E" name="KUKET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655930N" longitude="0291409E" name="KUKUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561538N" longitude="0121959E" name="KULUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662628N" longitude="0263558E" name="KULUS"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="580223N" longitude="0222733E" name="KUMAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553623N" longitude="0070000E" name="KUNAR"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="593023N" longitude="0263154E" name="KUNDA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585552N" longitude="0243943E" name="KUNUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634730N" longitude="0231026E" name="KURAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625022N" longitude="0232742E" name="KUSOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601856N" longitude="0195303E" name="KUSUP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551333N" longitude="0123206E" name="KUTAX"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="581036N" longitude="0265549E" name="KUUST"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604349N" longitude="0253527E" name="KUVAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601126N" longitude="0235614E" name="KUVEM"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592453N" longitude="0251543E" name="KUVOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572017N" longitude="0110000E" name="KUVUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581010N" longitude="0131740E" name="LABAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563318N" longitude="0155613E" name="LAGIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572720N" longitude="0091606E" name="LAGUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602617N" longitude="0235235E" name="LAKUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574625N" longitude="0121038E" name="LALIL"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="582630N" longitude="0262706E" name="LALVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="654817N" longitude="0215653E" name="LAMOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554501N" longitude="0125143E" name="LAMOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633219N" longitude="0210212E" name="LAMPI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545644N" longitude="0105123E" name="LANGO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572902N" longitude="0071339E" name="LANTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550000N" longitude="0074150E" name="LANUL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605453N" longitude="0270752E" name="LAPEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635421N" longitude="0202844E" name="LAPIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="680202N" longitude="0202001E" name="LAPLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563733N" longitude="0112051E" name="LAPMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="692445N" longitude="0283156E" name="LAPMU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572013N" longitude="0223813E" name="LAPSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="585514N" longitude="0141820E" name="LAPSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634422N" longitude="0255559E" name="LAPSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551628N" longitude="0163006E" name="LARMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622145N" longitude="0230827E" name="LARPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553356N" longitude="0123430E" name="LARSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560648N" longitude="0122716E" name="LASGI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565542N" longitude="0120042E" name="LASLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562607N" longitude="0201255E" name="LASMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560423N" longitude="0084850E" name="LASRO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="574627N" longitude="0220616E" name="LATEG"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581049N" longitude="0254645E" name="LATKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583326N" longitude="0115813E" name="LATKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572249N" longitude="0274109E" name="LATLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552655N" longitude="0181002E" name="LATMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565301N" longitude="0163608E" name="LATVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553354N" longitude="0085450E" name="LATVO"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="573922N" longitude="0121724E" name="LAV  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601414N" longitude="0244627E" name="LAVDI"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="564624N" longitude="0262108E" name="LBN  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552225N" longitude="0123743E" name="LEBDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550626N" longitude="0143510E" name="LEBLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612926N" longitude="0235627E" name="LEDGU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595830N" longitude="0260642E" name="LEDUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613043N" longitude="0213911E" name="LEGMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600246N" longitude="0142618E" name="LEGPO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655728N" longitude="0243821E" name="LEGVU"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="582925N" longitude="0262706E" name="LEKNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662329N" longitude="0245447E" name="LEKRA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614131N" longitude="0242048E" name="LEKSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572615N" longitude="0224633E" name="LELDA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592451N" longitude="0254044E" name="LEMLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="683238N" longitude="0271312E" name="LEMLU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="590049N" longitude="0224822E" name="LEMSI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582035N" longitude="0222947E" name="LENDU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631539N" longitude="0195908E" name="LENSO"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="563046N" longitude="0210505E" name="LEP  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614332N" longitude="0233140E" name="LERSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552308N" longitude="0050000E" name="LESRA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625207N" longitude="0224250E" name="LETBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620000N" longitude="0100726E" name="LETPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545142N" longitude="0100724E" name="LIBRI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584353N" longitude="0161459E" name="LIBSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="661952N" longitude="0152739E" name="LIDNA"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="584103N" longitude="0234954E" name="LIHUL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622654N" longitude="0222657E" name="LIKSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551511N" longitude="0124058E" name="LILBI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="650533N" longitude="0250544E" name="LILNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615710N" longitude="0285451E" name="LILVO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="681223N" longitude="0234813E" name="LIMRO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594328N" longitude="0172442E" name="LINSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570000N" longitude="0071338E" name="LINVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561316N" longitude="0093011E" name="LIRGO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="661904N" longitude="0233917E" name="LIRVO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560820N" longitude="0253417E" name="LISGO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562229N" longitude="0215639E" name="LITPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624800N" longitude="0232100E" name="LITSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671543N" longitude="0164848E" name="LIVLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602035N" longitude="0212750E" name="LIVLU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592447N" longitude="0245530E" name="LK   "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="555934N" longitude="0082116E" name="LME  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="593220N" longitude="0172130E" name="LNA  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571905N" longitude="0112953E" name="LOBBI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643927N" longitude="0244841E" name="LOBGA"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="593400N" longitude="0244000E" name="LOCAL"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575035N" longitude="0213937E" name="LOGNA"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592424N" longitude="0241155E" name="LOHUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554505N" longitude="0093048E" name="LOKSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="543532N" longitude="0111210E" name="LOMPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603449N" longitude="0215306E" name="LOMTU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550348N" longitude="0092747E" name="LONPA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="590456N" longitude="0235004E" name="LONSA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="625249N" longitude="0174936E" name="LUE  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551947N" longitude="0105747E" name="LUGAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550422N" longitude="0142250E" name="LUKAG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574248N" longitude="0130854E" name="LUKAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563107N" longitude="0200535E" name="LUKED"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635855N" longitude="0181039E" name="LUKIG"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592715N" longitude="0272647E" name="LUKUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603021N" longitude="0250754E" name="LULAB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601903N" longitude="0180030E" name="LUMAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605740N" longitude="0281256E" name="LUNAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622515N" longitude="0253724E" name="LUNEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591100N" longitude="0111855E" name="LUNIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561031N" longitude="0250931E" name="LUNIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593825N" longitude="0195235E" name="LUPET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545928N" longitude="0120303E" name="LUPUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581906N" longitude="0145704E" name="LURAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="682039N" longitude="0262137E" name="LUSAG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605708N" longitude="0251553E" name="LUSEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545500N" longitude="0151746E" name="LUSID"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574108N" longitude="0215859E" name="LUSIM"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575358N" longitude="0235453E" name="LUTAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552812N" longitude="0060000E" name="LUTAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550351N" longitude="0082458E" name="LUTIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584249N" longitude="0092738E" name="LUTOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560603N" longitude="0095940E" name="LUTUS"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="580218N" longitude="0214159E" name="LUVAN"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602155N" longitude="0251817E" name="LUVEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620534N" longitude="0242917E" name="LUVIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643348N" longitude="0213336E" name="LUVIX"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591402N" longitude="0231225E" name="LUXEM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562250N" longitude="0120049E" name="MADAG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="664407N" longitude="0235332E" name="MAGON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="542658N" longitude="0114801E" name="MAKEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572547N" longitude="0112425E" name="MAKUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550946N" longitude="0130213E" name="MALIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554511N" longitude="0121835E" name="MALIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600259N" longitude="0195001E" name="MAMAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603430N" longitude="0255904E" name="MAMOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603003N" longitude="0215918E" name="MAPUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544323N" longitude="0112515E" name="MARIP"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="585415N" longitude="0242605E" name="MARJA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602652N" longitude="0240237E" name="MAROM"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="585132N" longitude="0234840E" name="MART "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645938N" longitude="0250456E" name="MARUG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601040N" longitude="0123205E" name="MASEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550059N" longitude="0124803E" name="MATEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625624N" longitude="0130456E" name="MAVIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621946N" longitude="0260526E" name="MAVUP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634504N" longitude="0274319E" name="MAXAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551233N" longitude="0115409E" name="MAXEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575717N" longitude="0121015E" name="MAXIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553941N" longitude="0133614E" name="MAXUM"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="561623N" longitude="0162433E" name="MBL  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="674834N" longitude="0244652E" name="MEBUV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544957N" longitude="0091406E" name="MEDEL"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592806N" longitude="0291929E" name="MEDOB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602626N" longitude="0230532E" name="MEDOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="542806N" longitude="0113854E" name="MEGAR"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584801N" longitude="0272258E" name="MEGAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="592551N" longitude="0183641E" name="MENGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575425N" longitude="0155519E" name="MIKNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642639N" longitude="0252614E" name="MIKNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552454N" longitude="0080959E" name="MIKRO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561210N" longitude="0113527E" name="MIKSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595837N" longitude="0151801E" name="MILNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603153N" longitude="0260623E" name="MILSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574117N" longitude="0212719E" name="MILTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="665609N" longitude="0160526E" name="MIMKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634931N" longitude="0251545E" name="MIMLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631758N" longitude="0250453E" name="MIMRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662817N" longitude="0252336E" name="MIPGO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560209N" longitude="0115953E" name="MIRGO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562521N" longitude="0220943E" name="MIRMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555355N" longitude="0124021E" name="MISBI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563829N" longitude="0131210E" name="MISMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="661029N" longitude="0234910E" name="MISMO"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="573600N" longitude="0271345E" name="MISSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574930N" longitude="0124137E" name="MISVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570000N" longitude="0062721E" name="MITSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="682642N" longitude="0233446E" name="MIVDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590730N" longitude="0114609E" name="MOGLU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="595349N" longitude="0253506E" name="MOHNI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592443N" longitude="0250953E" name="MOKEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573847N" longitude="0150405E" name="MOKNI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="580654N" longitude="0220131E" name="MOLOK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562040N" longitude="0121607E" name="MOLUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545602N" longitude="0100823E" name="MOMAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545644N" longitude="0121849E" name="MONAK"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585455N" longitude="0271550E" name="MONUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550231N" longitude="0124717E" name="MOSAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553310N" longitude="0124753E" name="MOSIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635548N" longitude="0191604E" name="MOTIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571310N" longitude="0162050E" name="MOVIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="675803N" longitude="0233746E" name="MOVUK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583153N" longitude="0131850E" name="MOXAM"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="594507N" longitude="0242247E" name="MUSTI"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="585105N" longitude="0265622E" name="MUSTV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="593142N" longitude="0245804E" name="MUUGA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="593227N" longitude="0243351E" name="NAISA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="591741N" longitude="0181043E" name="NAK  "/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="583322N" longitude="0230909E" name="NAKUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625735N" longitude="0210343E" name="NALIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562253N" longitude="0052627E" name="NAMIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561807N" longitude="0043611E" name="NAMON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632146N" longitude="0271936E" name="NANIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613504N" longitude="0260540E" name="NAPRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671431N" longitude="0262231E" name="NAPSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604941N" longitude="0251622E" name="NAPUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555112N" longitude="0080650E" name="NARBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="652013N" longitude="0223435E" name="NAREX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561500N" longitude="0050000E" name="NARIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="691502N" longitude="0275545E" name="NARNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560021N" longitude="0121330E" name="NAROL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560700N" longitude="0060000E" name="NARSU"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="592750N" longitude="0280156E" name="NARVJ"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="591847N" longitude="0301757E" name="NASBI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660358N" longitude="0254025E" name="NASUL"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="664447N" longitude="0211921E" name="NAT  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660308N" longitude="0290229E" name="NATIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593805N" longitude="0133103E" name="NATVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553534N" longitude="0095456E" name="NAVDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555147N" longitude="0075811E" name="NAVIK"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592036N" longitude="0242451E" name="NAVOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593409N" longitude="0182718E" name="NAXEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605910N" longitude="0263230E" name="NAXEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610634N" longitude="0225048E" name="NEBAB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="670205N" longitude="0234301E" name="NEBET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554630N" longitude="0081700E" name="NEBSA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585418N" longitude="0205629E" name="NEBSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555000N" longitude="0080000E" name="NEBUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="653328N" longitude="0143030E" name="NEBUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624136N" longitude="0292543E" name="NEDEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="542911N" longitude="0120354E" name="NEDIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580216N" longitude="0145335E" name="NEGAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581505N" longitude="0123731E" name="NEGIL"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591856N" longitude="0243107E" name="NEKAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581816N" longitude="0203443E" name="NEKET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590000N" longitude="0191549E" name="NEKLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551355N" longitude="0123858E" name="NEKSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="685834N" longitude="0274720E" name="NEKUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570931N" longitude="0142214E" name="NEMBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662024N" longitude="0244139E" name="NEMGU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601601N" longitude="0243324E" name="NEMVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615148N" longitude="0250103E" name="NENBU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592335N" longitude="0241743E" name="NENSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604433N" longitude="0242908E" name="NEPEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660630N" longitude="0250727E" name="NEPIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575317N" longitude="0091342E" name="NERDO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="583740N" longitude="0204618E" name="NEREN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621759N" longitude="0300721E" name="NESIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635947N" longitude="0141437E" name="NETAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="683109N" longitude="0262909E" name="NETGO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575232N" longitude="0224722E" name="NETNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615344N" longitude="0290507E" name="NEVOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574311N" longitude="0235119E" name="NEVTO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544839N" longitude="0113731E" name="NEXEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562021N" longitude="0134359E" name="NEXIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594424N" longitude="0122132E" name="NIBNO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601151N" longitude="0245050E" name="NIDAG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560220N" longitude="0274917E" name="NIGBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="543631N" longitude="0121708E" name="NIKDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584128N" longitude="0181815E" name="NIKEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611312N" longitude="0225929E" name="NIKRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564344N" longitude="0131919E" name="NILEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621700N" longitude="0291405E" name="NILMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584857N" longitude="0175305E" name="NILUG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631212N" longitude="0274852E" name="NIMGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601606N" longitude="0262941E" name="NINEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561344N" longitude="0181708E" name="NINTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610902N" longitude="0220727E" name="NIPAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594057N" longitude="0230048E" name="NIPIB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580443N" longitude="0093700E" name="NIROD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555830N" longitude="0070000E" name="NIROX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604627N" longitude="0220801E" name="NIRPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553929N" longitude="0095456E" name="NISEM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591907N" longitude="0202554E" name="NISIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552857N" longitude="0125305E" name="NISLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610734N" longitude="0240255E" name="NISVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601033N" longitude="0255829E" name="NITAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643258N" longitude="0174559E" name="NITMU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="674832N" longitude="0244634E" name="NITOG"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584832N" longitude="0245812E" name="NITSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573412N" longitude="0040813E" name="NIVUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="654113N" longitude="0243308E" name="NODKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603231N" longitude="0250207E" name="NODMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642745N" longitude="0140650E" name="NOGBO"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="574624N" longitude="0114922E" name="NOL  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615549N" longitude="0230124E" name="NOLGI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600248N" longitude="0194959E" name="NOLVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632616N" longitude="0144451E" name="NONKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645741N" longitude="0245843E" name="NOPNI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655112N" longitude="0253646E" name="NOPSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570000N" longitude="0054612E" name="NOREM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570000N" longitude="0051030E" name="NORSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563128N" longitude="0113732E" name="NORTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554446N" longitude="0131958E" name="NORVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590422N" longitude="0171529E" name="NOSLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641625N" longitude="0240405E" name="NOSLO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="574948N" longitude="0273335E" name="NOTAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560624N" longitude="0121428E" name="NOVPO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="683242N" longitude="0203944E" name="NOVRI"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="594459N" longitude="0184601E" name="NTL  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625419N" longitude="0220255E" name="NUBRO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651204N" longitude="0254511E" name="NUBVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555231N" longitude="0074652E" name="NUGLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642902N" longitude="0144849E" name="NUGTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643228N" longitude="0275252E" name="NUKSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601828N" longitude="0243729E" name="NUKSI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582620N" longitude="0272205E" name="NUMSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600501N" longitude="0235337E" name="NUNTO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625650N" longitude="0215011E" name="NURGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553535N" longitude="0122613E" name="NUSMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601724N" longitude="0252717E" name="NUTRU"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="591644N" longitude="0282918E" name="OBANA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="592608N" longitude="0205523E" name="OBEVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614325N" longitude="0120815E" name="OBIVO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600931N" longitude="0250821E" name="OBONU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602448N" longitude="0245245E" name="OBUPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550545N" longitude="0124541E" name="ODARU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623938N" longitude="0293639E" name="ODEVO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602016N" longitude="0245714E" name="ODEXA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553600N" longitude="0124215E" name="ODMEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550802N" longitude="0142831E" name="ODMEI"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="553452N" longitude="0103911E" name="ODN  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590015N" longitude="0240007E" name="ODRTN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="640414N" longitude="0265422E" name="ODRUB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613101N" longitude="0225057E" name="ODUSA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585000N" longitude="0230133E" name="ODVIN"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="555923N" longitude="0140603E" name="OEM  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632401N" longitude="0232316E" name="OGASI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584614N" longitude="0130740E" name="OGIRO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="684959N" longitude="0211022E" name="OGLAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595559N" longitude="0192744E" name="OGLOB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="674358N" longitude="0191809E" name="OGRIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561305N" longitude="0142854E" name="OGTET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633934N" longitude="0231230E" name="OGTUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545500N" longitude="0134549E" name="OKAGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593835N" longitude="0114651E" name="OKAKI"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="593936N" longitude="0301730E" name="OKENI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591419N" longitude="0213136E" name="OKEVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565421N" longitude="0204435E" name="OKLAD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615818N" longitude="0173618E" name="OKLEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605001N" longitude="0254544E" name="OKLOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565346N" longitude="0063557E" name="OKMAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615117N" longitude="0244809E" name="OKMUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554705N" longitude="0273359E" name="OKNOD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591946N" longitude="0115726E" name="OKSAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554317N" longitude="0044807E" name="OKTIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552500N" longitude="0085200E" name="OKUSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572808N" longitude="0174307E" name="OLANU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="682714N" longitude="0272705E" name="OLAXU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601400N" longitude="0272830E" name="OLEMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620456N" longitude="0272149E" name="OLGUB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622603N" longitude="0121053E" name="OLGUV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="590806N" longitude="0241130E" name="OLMEV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592449N" longitude="0250557E" name="OLMON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612013N" longitude="0231610E" name="OLNEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="661119N" longitude="0244219E" name="OLNOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612027N" longitude="0074430E" name="OLOLU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593459N" longitude="0213339E" name="OLPED"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="583020N" longitude="0225226E" name="OMAXA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631750N" longitude="0221403E" name="OMELU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562858N" longitude="0045440E" name="OMIRI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564506N" longitude="0275406E" name="OPOKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615914N" longitude="0284850E" name="ORSUB"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585100N" longitude="0241922E" name="ORTAX"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="574859N" longitude="0273552E" name="ORTOK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565409N" longitude="0222245E" name="ORVIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631442N" longitude="0214927E" name="ORVOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560449N" longitude="0041349E" name="OSBAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614251N" longitude="0215737E" name="OSDIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571600N" longitude="0090800E" name="OSGAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630836N" longitude="0214200E" name="OSGID"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="632422N" longitude="0185937E" name="OSK  "/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584204N" longitude="0260122E" name="OSKAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624007N" longitude="0250322E" name="OSKEK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552429N" longitude="0112622E" name="OSKEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="654015N" longitude="0193656E" name="OSKIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621911N" longitude="0121544E" name="OSKOK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590925N" longitude="0073000E" name="OSKOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624335N" longitude="0151100E" name="OSLAV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="580159N" longitude="0235254E" name="OSLAX"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582733N" longitude="0252846E" name="OSLEM"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575909N" longitude="0260519E" name="OSLIK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="665145N" longitude="0252423E" name="OSLIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="644602N" longitude="0253638E" name="OSMAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600121N" longitude="0215152E" name="OSMIN"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591457N" longitude="0232833E" name="OSMUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572326N" longitude="0125046E" name="OSNAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622221N" longitude="0285724E" name="OSNIL"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="631158N" longitude="0142915E" name="OSS  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660307N" longitude="0164853E" name="OSTAX"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591715N" longitude="0221043E" name="OSTOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="582828N" longitude="0090309E" name="OSVAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635002N" longitude="0252416E" name="OTBAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662218N" longitude="0254329E" name="OTGUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610446N" longitude="0272323E" name="OTKAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602830N" longitude="0212204E" name="OTKIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620939N" longitude="0250211E" name="OTLUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562039N" longitude="0041619E" name="OTRAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633738N" longitude="0230615E" name="OTREK"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591128N" longitude="0234944E" name="OTSIB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562930N" longitude="0141610E" name="OTVEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621714N" longitude="0223851E" name="OTVEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="650819N" longitude="0241322E" name="OTVEM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622343N" longitude="0131205E" name="OVDAL"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="584321N" longitude="0243514E" name="OVR  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600655N" longitude="0224040E" name="OXOLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624508N" longitude="0133124E" name="OXOTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610221N" longitude="0280705E" name="OXURO"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="585726N" longitude="0225220E" name="OZ   "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="683949N" longitude="0231906E" name="PABVO"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="592249N" longitude="0240205E" name="PALDI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552701N" longitude="0075036E" name="PEGAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562505N" longitude="0123814E" name="PELAB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591202N" longitude="0154116E" name="PELIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="664812N" longitude="0235911E" name="PELOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570417N" longitude="0132805E" name="PELOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581644N" longitude="0162841E" name="PELUP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="681911N" longitude="0201625E" name="PEMAB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555900N" longitude="0043453E" name="PEMAD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625048N" longitude="0222036E" name="PEMER"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605501N" longitude="0241327E" name="PEMOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613728N" longitude="0045345E" name="PEMOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601642N" longitude="0252936E" name="PENAD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="663810N" longitude="0154034E" name="PENAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612847N" longitude="0220017E" name="PENIV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553819N" longitude="0170941E" name="PENOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600829N" longitude="0223559E" name="PEPIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642629N" longitude="0254713E" name="PEPUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600434N" longitude="0162253E" name="PERAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554636N" longitude="0135746E" name="PERRY"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660622N" longitude="0285458E" name="PESEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623832N" longitude="0225610E" name="PESIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601436N" longitude="0063507E" name="PESUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555620N" longitude="0050000E" name="PETIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="681750N" longitude="0231808E" name="PETOB"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="593040N" longitude="0230831E" name="PETOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="582949N" longitude="0064828E" name="PEVEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620047N" longitude="0175148E" name="PEVEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593740N" longitude="0213335E" name="PEVEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560455N" longitude="0082440E" name="PEVOR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595447N" longitude="0234928E" name="PEXEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601301N" longitude="0195855E" name="PEXUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550401N" longitude="0144443E" name="PIDES"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="594500N" longitude="0242700E" name="PIDIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613510N" longitude="0280845E" name="PIDOP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="585913N" longitude="0073000E" name="PIGAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602951N" longitude="0215404E" name="PIGES"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="663803N" longitude="0255747E" name="PIKUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642346N" longitude="0274515E" name="PILEL"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="583338N" longitude="0261643E" name="PILET"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581246N" longitude="0211252E" name="PIMEX"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591030N" longitude="0274342E" name="PIMOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614255N" longitude="0270327E" name="PINIG"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582000N" longitude="0204000E" name="PINIX"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582352N" longitude="0215320E" name="PIPAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="585050N" longitude="0090232E" name="PIPEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615059N" longitude="0243531E" name="PIPON"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="612436N" longitude="0233440E" name="PIR  "/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581946N" longitude="0273053E" name="PIRUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590300N" longitude="0211000E" name="PIRUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593300N" longitude="0231000E" name="PISIM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632502N" longitude="0230626E" name="PISOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615211N" longitude="0293336E" name="PISOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612417N" longitude="0215744E" name="PITUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604402N" longitude="0242729E" name="PIVAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570000N" longitude="0195500E" name="PIVAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612436N" longitude="0233441E" name="PIVOR"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582027N" longitude="0245416E" name="PIVUN"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575101N" longitude="0221238E" name="PIXAN"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="671456N" longitude="0230344E" name="PJL  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="682952N" longitude="0190555E" name="POBEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601221N" longitude="0244011E" name="PODOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595928N" longitude="0212316E" name="POGOK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631319N" longitude="0230226E" name="POGOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545000N" longitude="0103602E" name="POGUG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595853N" longitude="0192333E" name="POKAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="544911N" longitude="0143351E" name="POKEN"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="580335N" longitude="0270400E" name="POLVA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="582500N" longitude="0242758E" name="PRN  "/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="582250N" longitude="0273000E" name="PSAAR"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="582508N" longitude="0242823E" name="PU   "/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="581845N" longitude="0232331E" name="PUKE "/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="590030N" longitude="0233122E" name="PURKS"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="601740N" longitude="0253520E" name="PVO  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563230N" longitude="0095942E" name="RADIS"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="633554N" longitude="0162448E" name="RAE  "/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="585917N" longitude="0261438E" name="RAKKE"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631610N" longitude="0212604E" name="RALOX"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="562842N" longitude="0081115E" name="RAM  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610457N" longitude="0223432E" name="RAMAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594606N" longitude="0231839E" name="RAMIM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570326N" longitude="0073626E" name="RAMUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571109N" longitude="0122004E" name="RANAV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592724N" longitude="0280558E" name="RANVA"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="590026N" longitude="0244734E" name="RAPLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632302N" longitude="0211559E" name="RAPOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580141N" longitude="0202453E" name="RASEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634843N" longitude="0190551E" name="RASEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611113N" longitude="0213142E" name="RASIG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564530N" longitude="0134855E" name="RASMU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631401N" longitude="0210002E" name="RASRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="571723N" longitude="0080258E" name="RASVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605130N" longitude="0282018E" name="RATLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601416N" longitude="0263209E" name="RATMU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="580719N" longitude="0222901E" name="RAVIK"/>
+
+  <CharacteristicPoint AIP="false" kind="NDB" latitude="590802N" longitude="0150011E" name="RB   "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615109N" longitude="0271030E" name="REBGO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602538N" longitude="0245152E" name="REDBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590632N" longitude="0112058E" name="REGMA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591152N" longitude="0254234E" name="REGVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="592635N" longitude="0213340E" name="REKDO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651059N" longitude="0192821E" name="REKMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555922N" longitude="0124724E" name="REKMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625038N" longitude="0224456E" name="RELSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584903N" longitude="0172234E" name="REMBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572848N" longitude="0173519E" name="REMSA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="595309N" longitude="0245348E" name="RENKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660434N" longitude="0253154E" name="RENVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584821N" longitude="0103629E" name="REPKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552304N" longitude="0130618E" name="REPRO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631356N" longitude="0221513E" name="RERBU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622714N" longitude="0262753E" name="RERGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611653N" longitude="0225747E" name="RERLO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592018N" longitude="0272925E" name="RESMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602201N" longitude="0180129E" name="RESNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575929N" longitude="0092619E" name="RETKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561742N" longitude="0084536E" name="REVBO"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="565515N" longitude="0235755E" name="RIA  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="650850N" longitude="0250745E" name="RIBVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="592152N" longitude="0073000E" name="RIDBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553530N" longitude="0095939E" name="RIDSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="692323N" longitude="0283603E" name="RIDVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572606N" longitude="0240818E" name="RIGSO"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="580542N" longitude="0255355E" name="RIIDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630432N" longitude="0221703E" name="RIKSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561756N" longitude="0092703E" name="RIKSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595815N" longitude="0192429E" name="RIKUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601137N" longitude="0241643E" name="RILBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625132N" longitude="0275606E" name="RIMBI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575422N" longitude="0223111E" name="RINEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591940N" longitude="0094500E" name="RIPAM"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584806N" longitude="0261453E" name="RIPEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601624N" longitude="0243507E" name="RIPVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612225N" longitude="0232543E" name="RIRAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601210N" longitude="0212603E" name="RIRIP"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582919N" longitude="0272946E" name="RISAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651309N" longitude="0211432E" name="RISEM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623153N" longitude="0303014E" name="RISEV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581729N" longitude="0254655E" name="RISKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570231N" longitude="0115845E" name="RISMA"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="585818N" longitude="0240407E" name="RISTI"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="585610N" longitude="0220254E" name="RISTN"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="590326N" longitude="0220041E" name="RISVA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585303N" longitude="0222545E" name="RITRA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601746N" longitude="0213012E" name="RITSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612412N" longitude="0275301E" name="RITUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621439N" longitude="0274444E" name="RIVBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622319N" longitude="0240146E" name="RIVOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614003N" longitude="0285105E" name="RIVUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="664430N" longitude="0195658E" name="RIXAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="684728N" longitude="0201929E" name="RIXEM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550634N" longitude="0114311E" name="ROBUS"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="550356N" longitude="0144531E" name="ROE  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603046N" longitude="0123624E" name="ROGED"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581138N" longitude="0180006E" name="ROGMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612931N" longitude="0205811E" name="ROGTU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603016N" longitude="0220255E" name="ROGVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561901N" longitude="0121100E" name="ROKAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593503N" longitude="0164455E" name="ROKNI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605139N" longitude="0270123E" name="ROKVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601757N" longitude="0253120E" name="ROLAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561756N" longitude="0240154E" name="ROLAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623021N" longitude="0222305E" name="ROLOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631009N" longitude="0214100E" name="ROLSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553622N" longitude="0042929E" name="ROLVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615124N" longitude="0250129E" name="ROMOP"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="561515N" longitude="0151549E" name="RON  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560525N" longitude="0202944E" name="RONUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="654451N" longitude="0213949E" name="ROPAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600759N" longitude="0253606E" name="ROPAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591947N" longitude="0065040E" name="ROPNO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662518N" longitude="0253334E" name="ROPOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="663345N" longitude="0254913E" name="ROPSU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592835N" longitude="0234646E" name="ROSAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555058N" longitude="0105555E" name="ROSBI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634159N" longitude="0204739E" name="ROSMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622855N" longitude="0252711E" name="ROTES"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="665738N" longitude="0255740E" name="ROTKO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="654558N" longitude="0240820E" name="ROTUS"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="574347N" longitude="0265511E" name="ROUGE"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="694750N" longitude="0283151E" name="ROVAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604917N" longitude="0250733E" name="ROVIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="661514N" longitude="0241247E" name="ROVIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604402N" longitude="0122344E" name="ROVPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630619N" longitude="0274304E" name="ROVSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614659N" longitude="0262150E" name="ROVTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563352N" longitude="0140200E" name="ROXEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631316N" longitude="0213852E" name="ROXUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553409N" longitude="0123404E" name="RUBAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621612N" longitude="0255757E" name="RUBAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="654151N" longitude="0243850E" name="RUBSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560426N" longitude="0210537E" name="RUCAV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623231N" longitude="0302211E" name="RUDAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633335N" longitude="0225310E" name="RUDED"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572420N" longitude="0222440E" name="RUDNI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562056N" longitude="0100935E" name="RUDOV"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="574702N" longitude="0231559E" name="RUHNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602540N" longitude="0240207E" name="RUKIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550201N" longitude="0160415E" name="RUMAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593045N" longitude="0222556E" name="RUMEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581237N" longitude="0053133E" name="RUMOG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601527N" longitude="0240454E" name="RUNEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="693939N" longitude="0282239E" name="RUNES"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594459N" longitude="0194327E" name="RUNGA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="603055N" longitude="0221523E" name="RUS  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603055N" longitude="0221524E" name="RUSOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575422N" longitude="0210858E" name="RUTEK"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="593047N" longitude="0261855E" name="RUTJA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572555N" longitude="0234542E" name="RUVAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610259N" longitude="0283108E" name="RUVUB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553046N" longitude="0082546E" name="RUVUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645433N" longitude="0254848E" name="RUXOK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581036N" longitude="0113834E" name="SABAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563432N" longitude="0251602E" name="SAKTA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591800N" longitude="0243934E" name="SAKU "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545500N" longitude="0132310E" name="SALLO"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="580908N" longitude="0221145E" name="SALME"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="581825N" longitude="0224928E" name="SANDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551500N" longitude="0133004E" name="SIMEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605044N" longitude="0184506E" name="SIPRI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="585527N" longitude="0125728E" name="SIPSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561112N" longitude="0070000E" name="SISPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561942N" longitude="0060000E" name="SISRA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552253N" longitude="0115500E" name="SISVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562814N" longitude="0050000E" name="SISVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602942N" longitude="0230554E" name="SITMU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="665723N" longitude="0252915E" name="SITSO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="693428N" longitude="0291416E" name="SIVNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552819N" longitude="0091706E" name="SIVSU"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="643736N" longitude="0210445E" name="SKA  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="551344N" longitude="0091251E" name="SKR  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="653225N" longitude="0220803E" name="SLU  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604627N" longitude="0071626E" name="SOBDU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581836N" longitude="0265225E" name="SOBRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633145N" longitude="0231508E" name="SOGBU"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575400N" longitude="0241758E" name="SOKVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631951N" longitude="0120309E" name="SOLKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573528N" longitude="0070312E" name="SOLRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545244N" longitude="0124649E" name="SONAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555851N" longitude="0084316E" name="SONAM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655855N" longitude="0214822E" name="SONIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584549N" longitude="0142650E" name="SONIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604843N" longitude="0220656E" name="SONOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572754N" longitude="0145851E" name="SONPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573048N" longitude="0180428E" name="SOPAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="680335N" longitude="0275022E" name="SOPAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641404N" longitude="0204426E" name="SOPLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551820N" longitude="0050000E" name="SOPTO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575039N" longitude="0205859E" name="SOPUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551046N" longitude="0050000E" name="SORDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563607N" longitude="0244929E" name="SORES"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555853N" longitude="0114851E" name="SORGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551929N" longitude="0132510E" name="SOROM"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="593701N" longitude="0245049E" name="SORPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614224N" longitude="0231551E" name="SORUK"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="575524N" longitude="0220131E" name="SORVE"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="575748N" longitude="0215418E" name="SOSAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622611N" longitude="0273939E" name="SOSIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552636N" longitude="0121821E" name="SOTAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550110N" longitude="0145559E" name="SOTEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="681411N" longitude="0271140E" name="SOTIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601720N" longitude="0203726E" name="SOTUP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591517N" longitude="0130933E" name="SOVAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591541N" longitude="0172904E" name="SOVAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671248N" longitude="0222116E" name="SOVEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625500N" longitude="0275252E" name="SOXAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612142N" longitude="0232344E" name="SOXOR"/>
+
+  <CharacteristicPoint AIP="true" kind="GEO_PTS" latitude="594824N" longitude="0301700E" name="SPB  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="680531N" longitude="0214126E" name="SPO  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="600600N" longitude="0223213E" name="SUA  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624129N" longitude="0212229E" name="SUBUG"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="595430N" longitude="0251952E" name="SUDAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="672715N" longitude="0250300E" name="SUDIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563200N" longitude="0162558E" name="SULAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="581205N" longitude="0123747E" name="SULIX"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585818N" longitude="0240408E" name="SULUN"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="645720N" longitude="0174230E" name="SUM  "/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575444N" longitude="0272910E" name="SUMIM"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="623142N" longitude="0172655E" name="SUN  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553154N" longitude="0045424E" name="SUNEX"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="553204N" longitude="0132246E" name="SUP  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552544N" longitude="0082517E" name="SURIR"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="602938N" longitude="0245905E" name="SUTAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550000N" longitude="0052508E" name="SUTEB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643314N" longitude="0224416E" name="SUTEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554417N" longitude="0090433E" name="SUTIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610905N" longitude="0124310E" name="SUVAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642555N" longitude="0250744E" name="SUVIB"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584126N" longitude="0223536E" name="SUVIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630649N" longitude="0233906E" name="SUVOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560533N" longitude="0151303E" name="SUXEM"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="580504N" longitude="0075430E" name="SVA  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="561008N" longitude="0123426E" name="SVD  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620247N" longitude="0142443E" name="SVE  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552813N" longitude="0055612E" name="TABAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660223N" longitude="0072628E" name="TABEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593109N" longitude="0155502E" name="TABUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624223N" longitude="0264257E" name="TADIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554819N" longitude="0055405E" name="TAGIM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573823N" longitude="0111547E" name="TAKOV"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="591240N" longitude="0222435E" name="TAKUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600255N" longitude="0171819E" name="TALEK"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591111N" longitude="0275321E" name="TALER"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550625N" longitude="0094111E" name="TALSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562105N" longitude="0055032E" name="TALUL"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="591427N" longitude="0255745E" name="TAPA "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="593154N" longitude="0181212E" name="TEB  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602747N" longitude="0251410E" name="TEDMU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645658N" longitude="0245342E" name="TEGBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595905N" longitude="0124310E" name="TEKVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615158N" longitude="0250044E" name="TEKVU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550317N" longitude="0140659E" name="TELMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564042N" longitude="0152302E" name="TEMLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570347N" longitude="0221820E" name="TENSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612442N" longitude="0231138E" name="TEPDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="672150N" longitude="0204152E" name="TERPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594314N" longitude="0141450E" name="TESDI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555354N" longitude="0103152E" name="TESPI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562016N" longitude="0171343E" name="TESPO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563419N" longitude="0163358E" name="TESVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651119N" longitude="0173743E" name="TEVKO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="585113N" longitude="0234022E" name="TEVNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604916N" longitude="0244929E" name="TEVRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555548N" longitude="0050913E" name="TIBDI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555943N" longitude="0044522E" name="TIBKO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595440N" longitude="0081745E" name="TIBNO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625614N" longitude="0120731E" name="TIGBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601218N" longitude="0195813E" name="TIKMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625910N" longitude="0233444E" name="TIKRA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612030N" longitude="0250733E" name="TILDO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="564618N" longitude="0155219E" name="TILSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632113N" longitude="0220446E" name="TILTU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561503N" longitude="0050000E" name="TINAC"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633726N" longitude="0191850E" name="TINDO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591219N" longitude="0161747E" name="TINKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="694730N" longitude="0261340E" name="TINOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671543N" longitude="0161948E" name="TIPEL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="585417N" longitude="0163127E" name="TIPIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615036N" longitude="0242440E" name="TIPUB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560402N" longitude="0204452E" name="TIRIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580844N" longitude="0114301E" name="TISAB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551638N" longitude="0085425E" name="TISET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560835N" longitude="0115502E" name="TISKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630122N" longitude="0230335E" name="TISMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="670447N" longitude="0270407E" name="TISRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624134N" longitude="0274508E" name="TITIV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581722N" longitude="0272234E" name="TITOV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="652013N" longitude="0151301E" name="TIXOR"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590000N" longitude="0240001E" name="TL1  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590000N" longitude="0240002E" name="TL2  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590000N" longitude="0240003E" name="TL3  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590000N" longitude="0240004E" name="TL4  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590000N" longitude="0240005E" name="TL5  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590000N" longitude="0240006E" name="TL6  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590000N" longitude="0240007E" name="TL7  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="590000N" longitude="0240008E" name="TL8  "/>
+
+  <CharacteristicPoint AIP="true" kind="GEO_PTS" latitude="592441N" longitude="0245018E" name="TLL  "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="593455N" longitude="0244855E" name="TN400"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="594810N" longitude="0245311E" name="TN425"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592939N" longitude="0251133E" name="TN450"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592940N" longitude="0251431E" name="TN460"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="593415N" longitude="0250247E" name="TN471"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="593605N" longitude="0250711E" name="TN482"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592530N" longitude="0253820E" name="TN493"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592441N" longitude="0251423E" name="TN551"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="591941N" longitude="0251415E" name="TN552"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591907N" longitude="0245941E" name="TN563"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591556N" longitude="0250141E" name="TN574"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="591248N" longitude="0245814E" name="TN585"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591314N" longitude="0250712E" name="TN595"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="585916N" longitude="0245208E" name="TN596"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591309N" longitude="0252245E" name="TN606"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="590701N" longitude="0250404E" name="TN665"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="592056N" longitude="0240254E" name="TN700"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591325N" longitude="0241623E" name="TN711"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="591352N" longitude="0244609E" name="TN720"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="591950N" longitude="0242548E" name="TN750"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591231N" longitude="0242743E" name="TN751"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="585641N" longitude="0243149E" name="TN755"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591546N" longitude="0243802E" name="TN762"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591140N" longitude="0244732E" name="TN820"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="590725N" longitude="0250054E" name="TN821"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591749N" longitude="0242834E" name="TN835"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="591629N" longitude="0235927E" name="TN836"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="590749N" longitude="0243453E" name="TN849"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="593545N" longitude="0244651E" name="TN850"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592924N" longitude="0233135E" name="TN851"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592448N" longitude="0242546E" name="TN901"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592948N" longitude="0242545E" name="TN902"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="593711N" longitude="0242619E" name="TN903"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="593544N" longitude="0243434E" name="TN914"/>
+
+  <CharacteristicPoint AIP="true" kind="NONE" latitude="592947N" longitude="0244034E" name="TN925"/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592448N" longitude="0244958E" name="TNARP"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="554627N" longitude="0112621E" name="TNO  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551508N" longitude="0114035E" name="TOBIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561536N" longitude="0120342E" name="TOBMI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="580012N" longitude="0213309E" name="TODNA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614543N" longitude="0193225E" name="TOGMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570920N" longitude="0135440E" name="TOKSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565504N" longitude="0211827E" name="TOLBI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651735N" longitude="0221609E" name="TOMBA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591346N" longitude="0193404E" name="TOMBU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554709N" longitude="0090747E" name="TOMGU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573335N" longitude="0115049E" name="TOMVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583633N" longitude="0163113E" name="TONSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570809N" longitude="0122020E" name="TOPLA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="591009N" longitude="0101533E" name="TOR  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="592445N" longitude="0161243E" name="TORVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625253N" longitude="0215227E" name="TOTGU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655237N" longitude="0243647E" name="TOTMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550000N" longitude="0055907E" name="TOTSA"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="585617N" longitude="0173008E" name="TRS  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="652314N" longitude="0214613E" name="TRU  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612756N" longitude="0234948E" name="TUBDO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582533N" longitude="0222857E" name="TUBLI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="640849N" longitude="0184044E" name="TUDGI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551633N" longitude="0103852E" name="TUDLO"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="591110N" longitude="0265045E" name="TUDU "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671726N" longitude="0252004E" name="TUGPU"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="565550N" longitude="0231424E" name="TUK  "/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="584419N" longitude="0270829E" name="TUKMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580949N" longitude="0074859E" name="TUKMU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614108N" longitude="0272820E" name="TULTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595328N" longitude="0120112E" name="TUMGU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610040N" longitude="0275906E" name="TUMUG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621632N" longitude="0270259E" name="TUNOV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582235N" longitude="0250433E" name="TUNSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602319N" longitude="0230511E" name="TUNUS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625225N" longitude="0280704E" name="TUPNO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615930N" longitude="0232906E" name="TUPSU"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="593723N" longitude="0290128E" name="TURAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="644014N" longitude="0203510E" name="TURAS"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="590438N" longitude="0241427E" name="TURBA"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="584830N" longitude="0252508E" name="TURI "/>
+
+  <CharacteristicPoint AIP="false" kind="NONE" latitude="592453N" longitude="0244455E" name="TURNP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604838N" longitude="0225330E" name="TURSU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610917N" longitude="0231128E" name="TURUX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562846N" longitude="0251018E" name="TUSAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550335N" longitude="0144626E" name="TUSBU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622742N" longitude="0271719E" name="TUSIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550000N" longitude="0075234E" name="TUSKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591946N" longitude="0164903E" name="TUSNI"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="583549N" longitude="0231543E" name="TUTVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572901N" longitude="0181307E" name="TUVIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="674126N" longitude="0232943E" name="TUVLU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553527N" longitude="0052938E" name="TUXEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570839N" longitude="0090555E" name="TUXUR"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="590423N" longitude="0261116E" name="TUXUV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614325N" longitude="0234309E" name="UBELO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="642305N" longitude="0264818E" name="UBIGA"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582536N" longitude="0223025E" name="UDVAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615542N" longitude="0271413E" name="UDVIM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632455N" longitude="0273827E" name="UGLUM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643940N" longitude="0260830E" name="UGMOR"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581823N" longitude="0264151E" name="UIM  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635145N" longitude="0232031E" name="ULGEG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641605N" longitude="0272835E" name="ULKEP"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="583121N" longitude="0264821E" name="ULKOX"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="594801N" longitude="0301545E" name="ULLI "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591117N" longitude="0093413E" name="ULMUG"/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="574706N" longitude="0282354E" name="ULOO "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624839N" longitude="0223459E" name="ULRAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545925N" longitude="0150256E" name="ULRED"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662806N" longitude="0252813E" name="ULROM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630000N" longitude="0152610E" name="ULTEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601514N" longitude="0251213E" name="ULTIR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="553227N" longitude="0125148E" name="ULTIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603259N" longitude="0251727E" name="ULTSI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602451N" longitude="0070645E" name="ULVAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615553N" longitude="0284047E" name="ULVED"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="634719N" longitude="0201707E" name="UME  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570924N" longitude="0134302E" name="UMIXA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610000N" longitude="0170411E" name="UMLAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605349N" longitude="0265545E" name="UMOTI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630819N" longitude="0272833E" name="UMPIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612528N" longitude="0142301E" name="UMSAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610613N" longitude="0220911E" name="UMSES"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631955N" longitude="0200221E" name="UMSOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583242N" longitude="0142020E" name="UMTON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600214N" longitude="0224141E" name="UMUGI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551006N" longitude="0142039E" name="UMVAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671506N" longitude="0240837E" name="UNBAL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="580746N" longitude="0051029E" name="UNBUD"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591759N" longitude="0242545E" name="UNDOX"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581837N" longitude="0265241E" name="UNESU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="545500N" longitude="0135941E" name="UNGAV"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591643N" longitude="0235428E" name="UNIVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645309N" longitude="0201910E" name="UNKAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="633240N" longitude="0230410E" name="UNPOD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="662858N" longitude="0254028E" name="UNUKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602753N" longitude="0244556E" name="UNURU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="575700N" longitude="0102300E" name="UNVUG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601106N" longitude="0223334E" name="UPAPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651753N" longitude="0252908E" name="UPEDU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632636N" longitude="0213300E" name="UPEMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="663714N" longitude="0173644E" name="UPEVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="551441N" longitude="0050000E" name="UPGAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560635N" longitude="0125735E" name="UPLAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="590606N" longitude="0065158E" name="UPLEV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634457N" longitude="0270235E" name="UPULI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622217N" longitude="0232521E" name="URAKA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601420N" longitude="0243723E" name="UREDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561649N" longitude="0243059E" name="URIDO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592505N" longitude="0242453E" name="UROPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565400N" longitude="0073400E" name="URUBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655752N" longitude="0264720E" name="URUVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="614335N" longitude="0232608E" name="USEPU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="661527N" longitude="0152342E" name="USIKI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="595131N" longitude="0212157E" name="USITU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625721N" longitude="0254103E" name="USOPI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613645N" longitude="0250056E" name="USUPO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603128N" longitude="0223133E" name="UTELI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="695502N" longitude="0270144E" name="UTESI"/>
+
+  <CharacteristicPoint AIP="true" kind="VORDME" latitude="594406N" longitude="0290102E" name="UTETA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634415N" longitude="0254637E" name="UTUNU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632329N" longitude="0211204E" name="UVATI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610533N" longitude="0235058E" name="UVEMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660543N" longitude="0250059E" name="UVIKO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604625N" longitude="0222611E" name="UVOPA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="622257N" longitude="0292401E" name="UVOVO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621735N" longitude="0055350E" name="UVTIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605100N" longitude="0223648E" name="UXADA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612803N" longitude="0265633E" name="UXEGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="600828N" longitude="0195452E" name="UXETI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="673723N" longitude="0245351E" name="UXUKU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621835N" longitude="0255322E" name="VABAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562416N" longitude="0045953E" name="VABOB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="653543N" longitude="0244331E" name="VABSA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="623621N" longitude="0223240E" name="VABUB"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="570816N" longitude="0113838E" name="VADIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="694506N" longitude="0284743E" name="VADLA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="672057N" longitude="0200908E" name="VAGAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="555923N" longitude="0045242E" name="VAGAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601835N" longitude="0242520E" name="VAGIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="572345N" longitude="0064200E" name="VAGVA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="561459N" longitude="0191706E" name="VAGVO"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591718N" longitude="0245834E" name="VAIDA"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="594755N" longitude="0262222E" name="VAIND"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604106N" longitude="0254249E" name="VAKAT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645256N" longitude="0253228E" name="VAKBA"/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="581036N" longitude="0265548E" name="VAKET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="565432N" longitude="0132425E" name="VAKTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632507N" longitude="0203427E" name="VALAK"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550744N" longitude="0050000E" name="VALBO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574311N" longitude="0222743E" name="VALED"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="575114N" longitude="0255458E" name="VALGA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610651N" longitude="0233520E" name="VALOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552630N" longitude="0130708E" name="VALTI"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="552617N" longitude="0092006E" name="VAM  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601333N" longitude="0243327E" name="VAMRA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573301N" longitude="0244333E" name="VANAG"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="583914N" longitude="0250220E" name="VANDR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="634414N" longitude="0244215E" name="VANIT"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="591306N" longitude="0231355E" name="VANON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660725N" longitude="0254847E" name="VAPOT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554728N" longitude="0120544E" name="VARLO"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="573837N" longitude="0263956E" name="VARST"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="562907N" longitude="0195426E" name="VARUS"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="590042N" longitude="0274243E" name="VASKN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="643205N" longitude="0232029E" name="VASUL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="591903N" longitude="0114914E" name="VATEX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583500N" longitude="0095432E" name="VATIT"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="582729N" longitude="0222944E" name="VATOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615040N" longitude="0264339E" name="VAVED"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="583846N" longitude="0084414E" name="VAVET"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601406N" longitude="0245039E" name="VAVIS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625752N" longitude="0251357E" name="VAVIX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630229N" longitude="0214554E" name="VAVOS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563215N" longitude="0050000E" name="VAXIT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602349N" longitude="0250521E" name="VEBOD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624735N" longitude="0285305E" name="VEDAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563154N" longitude="0120725E" name="VEDAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="563154N" longitude="0185236E" name="VEDEN"/>
+
+  <CharacteristicPoint AIP="true" kind="NDB" latitude="591312N" longitude="0235849E" name="VEGER"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552147N" longitude="0131201E" name="VEGUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="625847N" longitude="0274850E" name="VEKUV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="610656N" longitude="0235800E" name="VELUN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574812N" longitude="0121218E" name="VEMAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="630513N" longitude="0222757E" name="VEMOL"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="592449N" longitude="0243016E" name="VEMOX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="665925N" longitude="0255257E" name="VEMUX"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="572201N" longitude="0213322E" name="VEN  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552906N" longitude="0130746E" name="VENOM"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="574935N" longitude="0182750E" name="VEPAX"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603753N" longitude="0261959E" name="VEPIN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="650732N" longitude="0215914E" name="VERAG"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611950N" longitude="0255047E" name="VEREX"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="553611N" longitude="0081800E" name="VES  "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="651120N" longitude="0154047E" name="VESER"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573058N" longitude="0103239E" name="VESIL"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632240N" longitude="0210643E" name="VESUT"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="554300N" longitude="0044501E" name="VESUV"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="560109N" longitude="0255122E" name="VETAS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603030N" longitude="0244841E" name="VETUD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="624950N" longitude="0111718E" name="VEVOD"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="641807N" longitude="0275511E" name="VEXUT"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="560854N" longitude="0131259E" name="VEY  "/>
+
+  <CharacteristicPoint AIP="true" kind="GEO_PTS" latitude="583921N" longitude="0253429E" name="VI   "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="573441N" longitude="0162326E" name="VIBAR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="550750N" longitude="0095839E" name="VIBEN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602733N" longitude="0241439E" name="VIBEP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="552851N" longitude="0123010E" name="VIBUM"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="591535N" longitude="0235230E" name="VIHTP"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="582301N" longitude="0214910E" name="VILSN"/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="583425N" longitude="0233204E" name="VIRTS"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="634958N" longitude="0195053E" name="VNA  "/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="590023N" longitude="0231451E" name="VORM "/>
+
+  <CharacteristicPoint AIP="false" kind="MIL_PTS" latitude="575020N" longitude="0270057E" name="VORU "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="573934N" longitude="0182049E" name="VSB  "/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="581811N" longitude="0154235E" name="VSN  "/>
+
+  <CharacteristicPoint AIP="false" kind="NDB" latitude="565126N" longitude="0144152E" name="VX   "/>
+
+  <CharacteristicPoint AIP="false" kind="REPORT" latitude="581614N" longitude="0223031E" name="WA   "/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="671621N" longitude="0260057E" name="XAMIL"/>
+
+  <CharacteristicPoint AIP="true" kind="REPORT" latitude="581257N" longitude="0235010E" name="XANON"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601653N" longitude="0080415E" name="XAROS"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="620603N" longitude="0275917E" name="XELIP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="615605N" longitude="0253746E" name="XELMA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="612959N" longitude="0124005E" name="XELVI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="613103N" longitude="0213817E" name="XENPO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="584129N" longitude="0112858E" name="XENTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645844N" longitude="0250945E" name="XEPDU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="601458N" longitude="0201128E" name="XERDA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="675224N" longitude="0252155E" name="XETMU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="604120N" longitude="0221430E" name="XETNI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="645013N" longitude="0241836E" name="XEVAP"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="632157N" longitude="0252249E" name="XEVLO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="603124N" longitude="0222835E" name="XEVUR"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="594304N" longitude="0115612E" name="XIDMI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="593934N" longitude="0190434E" name="XILAN"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="660301N" longitude="0290407E" name="XISTA"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="635916N" longitude="0245013E" name="XOKNO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="621357N" longitude="0274557E" name="XOLRU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="602634N" longitude="0251338E" name="XOMRI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655626N" longitude="0240436E" name="XONTU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="611928N" longitude="0223854E" name="XORMU"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="605236N" longitude="0264452E" name="XUBMO"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="655807N" longitude="0242615E" name="XULBI"/>
+
+  <CharacteristicPoint AIP="false" kind="VORDME" latitude="631148N" longitude="0212819E" name="XUROS"/>
+
+  <CharacteristicPoint AIP="false" kind="GEO_PTS" latitude="585230N" longitude="0053824E" name="ZOL  "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="602332N" longitude="0234741E" name="ZZZF "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="570110N" longitude="0244815E" name="ZZZL "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="583030N" longitude="0282100E" name="ZZZR "/>
+
+  <CharacteristicPoint AIP="false" kind="AIRPORT_I" latitude="582400N" longitude="0185400E" name="ZZZS "/>
+
+</CharacteristicPoints>

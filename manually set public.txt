@@ -1,0 +1,13 @@
+
+GenCallsignCol = Sheets("Generated").Range("A1:Z1").Find("Callsign", Lookat:=xlPart, MatchCase:=False).Column
+GenTypeCol = Sheets("Generated").Range("A1:Z1").Find("at_icao", Lookat:=xlPart, MatchCase:=False).Column
+GenActiveCol = Sheets("Generated").Range("A1:Z1").Find("ActivTime", Lookat:=xlPart, MatchCase:=False).Column
+GenSpeedCol = Sheets("Generated").Range("A1:Z1").Find("Speed", Lookat:=xlPart, MatchCase:=False).Column
+GenFLCol = Sheets("Generated").Range("A1:Z1").Find("FL", Lookat:=xlWhole, MatchCase:=False).Column
+GenDepCol = Sheets("Generated").Range("A1:Z1").Find("Departure", Lookat:=xlPart, MatchCase:=False).Column
+GenDesCol = Sheets("Generated").Range("A1:Z1").Find("Destination", Lookat:=xlPart, MatchCase:=False).Column
+GenASSRCol = Sheets("Generated").Range("A1:Z1").Find("Kood", Lookat:=xlPart, MatchCase:=False).Column
+GenRFLCol = Sheets("Generated").Range("A1:Z1").Find("RFL", Lookat:=xlWhole, MatchCase:=False).Column
+GenCFLCol = Sheets("Generated").Range("A1:Z1").Find("CFL", Lookat:=xlWhole, MatchCase:=False).Column
+GenEntryCol = Sheets("Generated").Range("A1:Z1").Find("EntryPoint", Lookat:=xlPart, MatchCase:=False).Column
+GenExitCol = Sheets("Generated").Range("A1:Z1").Find("ExitPoint", Lookat:=xlPart, MatchCase:=False).Column
